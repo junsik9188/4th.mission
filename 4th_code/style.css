@@ -4,8 +4,8 @@ body{
 
 .navbar{
   float: right;
-  border:1px solid red;
-  margin:20px;
+ border:1px solid red;
+   margin:20px;
 }
 
 
@@ -25,7 +25,7 @@ body{
 }
 
 .input-area {
-  margine-top:20px;
+  margin-top:20px;
 }
 
 .input-box{
@@ -46,8 +46,8 @@ body{
 
 .mic-icon{
   position: relative;
-  right:40px
-  color: #9aa0a6
+  right:40px;
+  color: #9aa0a6;
 }
 
 
