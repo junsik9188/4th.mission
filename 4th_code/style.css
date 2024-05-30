@@ -1,17 +1,17 @@
 body{
-  display:content;
+  display:contents;
+  font-family: arial, sans-serif;
 }
 
-.navbar{
+.navbar {
   float: right;
- border:1px solid red;
    margin:20px;
 }
 
 
 .nav-item{
   text-decoration: none;
-  color: black
+  color: black;
   margin-right: 15px;
 }
 
@@ -28,7 +28,7 @@ body{
   margin-top:20px;
 }
 
-.input-box{
+.input-box {
   width:584px;
   height: 46px;
   border-radius: 24px;
@@ -41,7 +41,7 @@ body{
 .search-icon{
   position: relative;
   left:40px;
-  color: #9aa0a6
+  color: #9aa0a6;
 }
 
 .mic-icon{
@@ -63,7 +63,7 @@ body{
   border: 1px solid #f8f9fa;
   border-radius: 4px;
   color: #3c4043;
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   padding:0 16px;
   margin: 11px 4px;
 }
@@ -102,7 +102,7 @@ body{
   color: rgba(0,0,0,.54);
 }
 
-.second-line{
+.second-line {
    padding: 15px 30px;
    font-size: 15px;
   color: rgba(0,0,0.54);

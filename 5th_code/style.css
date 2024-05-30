@@ -1,0 +1,15 @@
+.box{
+  width:100px;
+  height:100px;
+}
+.red{
+  backgroud-color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.blue{
+ background-color: blue;
+}
